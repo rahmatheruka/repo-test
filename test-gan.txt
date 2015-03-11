@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 edu broo
+=======
+ini isinya
+ini isinya 2 ?>
+coba
+>>>>>>> 15bb9539b6e884fce6940b23ea837321b50f7b4e
