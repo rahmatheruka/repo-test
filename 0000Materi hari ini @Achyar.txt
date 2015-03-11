@@ -1,0 +1,11 @@
+git commit -m "2110141038"
+
+git add *
+
+git config --global user.name "Miftah"
+git config --global user.email achyar.miftah@gmail.com
+
+git push origin master
+git pull origin master
+
+git config --global http.proxy http://proxy.eepis-its.edu:433
